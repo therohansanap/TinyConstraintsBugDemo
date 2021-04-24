@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -80,7 +80,6 @@
 				98A857722B36A63FC0189A7D /* Pods-TinyConstraintsBugDemo.debug.xcconfig */,
 				417C9351BA7FC0788715F9FA /* Pods-TinyConstraintsBugDemo.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
